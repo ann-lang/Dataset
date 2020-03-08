@@ -20,7 +20,7 @@ The folder `dataset` contains the following files.
 * survey_criteria_for_GFIs.xlsx
     *  It contains the thematic analysis results for RQ4 (Section 7.1.1).
 
-* Because the codes we obtained for extract the problems of GFI mechanism are very similar, we don't provide the detail of this step (Section 6.1.2). 
+* Because the codes we obtained for extracting the problems of GFI mechanism are very similar, we do not provide the detail of this step (Section 6.1.2). 
 
 ## scripts
 The folder `scripts` contains the following files.
