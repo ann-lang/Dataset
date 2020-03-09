@@ -17,8 +17,8 @@ The folder `dataset` contains the following files.
     *  It contains the issues used to compare the resolution process of good first issues and others (Section 5.1.1). 
 * random_issue_manual_analysis.csv
     *  It contains the good first issues for manual analysis (Section 5.2.1).
-* survey_criteria_for_GFIs.xlsx
-    *  It contains the thematic analysis results for RQ4 (Section 7.1.1).
+* survey_criteria_for_GFIs.pdf
+    *  It shows the thematic analysis results for RQ4 (Section 7.1.1).
 
 * Because the codes we obtained for extract the problems of GFI mechanism are very similar, we don't provide the detail of this step (Section 6.1.2). 
 
