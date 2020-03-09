@@ -35,5 +35,5 @@ The folder `scripts` contains the following files.
     * It used to process the markdown style of issue reports to obtain the related fields.
 * gfi_description_attributes.py
     * It used to get the attributes of good first issue descriptions.
-*get_issue_label_time.py
+* get_issue_label_time.py
     * It used to get the events of good first issues, i.e., who and when label the issue.
