@@ -20,7 +20,7 @@ The folder `dataset` contains the following files.
 * Results of Thematic Analysis.pdf
     *  It shows the thematic analysis results for RQ4 (Section 7.1.1).
 * coding guide.pdf
-    *  It shows the coding guide for thematic analysis results for RQ4 (Section 7.1.1).
+    *  It shows the coding_guide for thematic analysis results for RQ4 (Section 7.1.1).
 
 * Because the codes we obtained for extracting the problems of GFI mechanism are very similar, we do not provide the detail of this step (Section 6.1.2). 
 
